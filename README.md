@@ -23,6 +23,7 @@ This HTML file is created for Animation Assignment 10. It serves as a starting p
 
 ## Hosted Link
 
+https://sanketmahadik191.github.io/Assignment10_Animation/
 
 
 ## Screenshots
